@@ -20,4 +20,4 @@ NuGet package: [Platform.Setters](https://www.nuget.org/packages/Platform.Setter
 *   [Platform.Interfaces](https://github.com/linksplatform/Interfaces)
 
 ## Dependent libraries
-*   [Platform.Data](https://github.com/linksplatform/Data)
+*   [Platform.Data](https://github.com/linksplatform/Data) 
